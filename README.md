@@ -38,7 +38,7 @@ to develop a complete controller side 1722.1 software stack.
 Dependencies
 ------------
 
-Uses Jeff Koftinoff's packet processing library, see <https://github.com/jdkoftinoff/jdksavdecc-c.git>
+Uses Jeff Koftinoff's packet processing library, see <https://github.com/audioscience/jdksavdecc-ct>
 This is a submodule that can be cloned using:
 
 	cd avdecc-lib
